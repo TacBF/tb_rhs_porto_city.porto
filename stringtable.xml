@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Porto_City">
+
+	<Key ID="STR_TB_missionTitle_TB_Porto_City">
+		<Original>Porto City</Original>
+		<English>Porto City</English>
+		<German>Porto City</German>
+		<Italian>Porto City</Italian>
+		<Spanish>Porto City</Spanish>
+		<French>Porto City</French>
+		<Czech>Porto City</Czech>
+		<Russian>Porto City</Russian>
+		<Polish>Porto City</Polish>
+		<Hungarian>Porto City</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Porto City">
+		<Original>TacBF A&amp;S[T-10]: Porto City</Original>
+		<English>TacBF A&amp;S[T-10]: Porto City</English>
+		<German>TacBF A&amp;S[T-10]: Porto City</German>
+		<Italian>TacBF A&amp;S[T-10]: Porto City</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Porto City</Spanish>
+		<French>TacBF A&amp;S[T-10]: Porto City</French>
+		<Czech>TacBF A&amp;S[T-10]: Porto City</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Porto City</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Porto City</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Porto City</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
